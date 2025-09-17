@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "sogou-shurufa.help-zs-re3": {
+      "appLocation": ".",
+      "outputLocation": "."
+    }
+  }
+}
